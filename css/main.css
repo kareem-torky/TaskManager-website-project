@@ -1,0 +1,45 @@
+body {
+    background-image: url(../images/back.jpeg);
+}
+
+.main-box {
+    margin-top: 50px;
+    height: 500px;
+    padding: 30px;
+    border: double;
+    background-color: white; /* Temporary */ 
+}
+
+.error-msg {
+    color: rgb(255, 20, 20);
+    background-color: SeaShell;
+}
+
+#sign-up-btn {
+    width: 400px;
+    margin-top: 100px;
+}
+
+#log-in-btn {
+    width: 400px;
+}
+
+#sign-up-form {
+    margin-top: 30px;
+}
+
+#log-in-form {
+    margin-top: 80px;
+}
+
+#add {
+    width: 500px;
+}
+
+
+
+.table-box {
+    height: 270px;
+}
+
+
