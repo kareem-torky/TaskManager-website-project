@@ -4,7 +4,7 @@ body {
 
 .main-box {
     margin-top: 50px;
-    height: 500px;
+    min-height: 500px;
     padding: 30px;
     border: double;
     background-color: white; /* Temporary */ 
